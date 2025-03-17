@@ -11,7 +11,7 @@ class _HomeScreenExpState extends State<HomeScreenExp> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text("HI"),
+      body: Center(child: Text("Undakunathe oll samayam edukum",style:TextStyle(fontSize: 40),)),
     );
   }
 }
